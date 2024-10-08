@@ -12,5 +12,5 @@ int main(){
     cout<<"enter number"<<endl;
      cin>>n;
     fact(n);
-return 0;
+return 0 ;
 }
